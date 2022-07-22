@@ -36,6 +36,8 @@ SO THAT I can easily communicate with other friends.
 
 ## Preview
 
+https://user-images.githubusercontent.com/91381863/180482805-10cc18c9-10fc-46ab-87d5-63df59537f4a.mp4
+
 ## Website
 
 [View Live Site](https://)
@@ -43,6 +45,8 @@ SO THAT I can easily communicate with other friends.
 ## Credits
 
 <details>
+
+
 
   <summary>Click to see Contributors</summary>
   
