@@ -52,8 +52,4 @@ SO THAT I can easily communicate with other friends.
 
 ## Built With
 
-![html](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&logoWidth=30)
-![js](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&logoWidth=30)
-![jquery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&logoWidth=30)
-![node.js] (https://img.shields.io/badge/Node.Js-Node.Js-red)
-![nosql] (https://img.shields.io/badge/nosql-nosql-yellowgreen)
+#### Html, JavaScript, Node. Js, Nosql, Express. 
